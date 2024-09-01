@@ -21,7 +21,8 @@ The following is a list of audit reports available in this repository:
 
 ## POCs
 The following is a list of POCs available in this repository:
-1. [ArgoCoin POC](pocs/ArgoCoin.t.sol)
+1. [ArgoCoin POC](pocs/ArgoCoin.t.sol) - [Watch Video](https://www.youtube.com/watch?v=xTSzO4YZWUU)
+
 
 Each POC is stored in the `pocs` directory and can be accessed directly from the links above.
 
